@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react';
 
-import PageHeader from "../../components/PageHeader";
-import "./styles.css";
+import PageHeader from '../../components/PageHeader';
+import './styles.css';
 
 function TeacherForm() {
   return (
