@@ -1,7 +1,9 @@
 <h1 align="center">
     Proffy
 </h1>
-
+<h3 align="left">
+    Desenvolvido através da NLW 02 da Rocketseat
+</h3>
 <br>
 
 ## 🚀 Tecnologias
