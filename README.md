@@ -1,9 +1,7 @@
 <h1 align="center">
     <img alt="Proffy" title="Proffy" src=".github/logo.svg" />
 </h1>
-<h3 align="left">
-    Desenvolvido através da NLW 02 da Rocketseat.
-</h3>
+
 <br>
 
 ## 🚀 Tecnologias
