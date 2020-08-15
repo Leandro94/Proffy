@@ -1,7 +1,8 @@
 import React from 'react';
-import { View, ImageBackground, Text, TouchableOpacity } from 'react-native';
+import { View, ImageBackground, Text } from 'react-native';
 
 import { useNavigation } from '@react-navigation/native';
+import { RectButton } from 'react-native-gesture-handler';
 
 import giveClassesBgImage from '../../assets/images/give-classes-background.png';
 
@@ -28,9 +29,9 @@ function GiveClasses() {
         </Text>
       </ImageBackground>
 
-      <TouchableOpacity style={styles.okButton} onPress={handleNavigationBack}>
+      <RectButton style={styles.okButton} onPress={handleNavigationBack}>
         <Text style={styles.okButtonText}>Tudo bem</Text>
-      </TouchableOpacity>
+      </RectButton>
     </View>
   );
 }
