@@ -2,7 +2,7 @@
     <img alt="Proffy" title="Proffy" src=".github/logo.svg" />
 </h1>
 <p align="center">
-  <img alt="Proffy" src=".github/landing.png" >
+  <img alt="Proffy" src=".github/landing.png" width="90%">
 </p>
 <br>
 <p align="center">
