@@ -2,7 +2,7 @@
     Proffy
 </h1>
 <h3 align="left">
-    Desenvolvido através da NLW 02 da Rocketseat
+    Desenvolvido através da NLW 02 da Rocketseat.
 </h3>
 <br>
 
