@@ -11,6 +11,14 @@
   <img alt="Proffy" src=".github/favoritos.jpg" width="30%"> 
 </p>
 
+## ⚠️ Instruções
+```bash
+$ "npm install" ou "yarn" para baixar as dependências
+```
+```bash
+$ "npm start" ou "yarn start" para executar o projeto
+```
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
