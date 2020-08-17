@@ -16,7 +16,7 @@
 $ "npm install" ou "yarn" para baixar as dependências
 ```
 ```bash
-$ "npm start" ou "yarn start" para executar o projeto
+$ "npm start" ou "yarn start" para executar
 ```
 
 ## 🚀 Tecnologias
